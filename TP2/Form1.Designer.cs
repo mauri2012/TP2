@@ -125,7 +125,7 @@
             TGuardar.TabIndex = 8;
             TGuardar.Text = "Guardar";
             TGuardar.UseVisualStyleBackColor = true;
-            TGuardar.Click += button1_Click;
+            TGuardar.Click += TGuardar_Click;
             // 
             // TEliminar
             // 

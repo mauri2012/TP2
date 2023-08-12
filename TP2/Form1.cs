@@ -24,7 +24,7 @@ namespace TP2
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void TGuardar_Click(object sender, EventArgs e)
         {
             double parseValue;
             bool DNIValidate = !double.TryParse(this.TDni.Text, out parseValue);
